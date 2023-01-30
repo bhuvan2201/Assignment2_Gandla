@@ -8,3 +8,7 @@ Volleyball is a team sport in which two teams of six players are separated by a 
   1. Gautam Gambir
   2. Bret Lee
   3. Sachin 
+
+- Kolkata knight Riders
+- Chennai super kings
+- Delhi capitals

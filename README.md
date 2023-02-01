@@ -14,3 +14,12 @@ Volleyball is a team sport in which two teams of six players are separated by a 
 - Delhi capitals
 
 click here [AboutMe](AboutMe.md)
+
+------
+# countries i recommend to visit
+|Name of the country|country to visit|Days to be spent|
+|-------------------|----------------|----------------|
+|India|India is a vast country that is teeming with impressive landscapes that range from dry desserts to imposing mountain ranges and stunning architecture with so much detail it will make your head spin knowing it was mostly, if not all produced by hand. India is a melting pot of cultures and traditions, various types of food and will provide you with enough culture shock to have stories to tell for years to come. India is a place that will teach you things about yourself, about others and you’ll learn what travelling is really all about.|spent 10 days|
+|Germany|With an interesting and rich history narrated by the old-fashion and colorful architecture, castles, palaces, cathedrals and monuments themselves, its landscapes, mountains and forests, delicious food and beer, Germany remains one of the top destinations in the world for travelers.|spent 20days|
+|Australia|There’s no doubt Australia is one of the most remote, fascinating, and highly developed countries in the world.Endowed with a myriad of natural wonders, plenty of wildlife, dazzling beaches, cosmopolitan metropolises, and large expanses of the outback, it’s easy to see why this captivating country is such a complete travel destination. It not only matches every taste, budget, age, or interest out there, but it also delivers some unique experiences almost impossible to find somewhere else.|spent 7days|
+

@@ -26,5 +26,6 @@ click here [AboutMe](AboutMe.md)
 
 -----
 # 2 Funny Quotes
->If writers were good businessmen, they’d have too much sense to be writers. _Irvin S. Cobb_
->The road to hell is paved with adverbs._Stephen King_
+> If writers were good businessmen, they’d have too much sense to be writers. _Irvin S. Cobb_
+
+> The road to hell is paved with adverbs._Stephen King_

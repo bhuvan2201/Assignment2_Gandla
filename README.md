@@ -29,3 +29,22 @@ click here [AboutMe](AboutMe.md)
 > If writers were good businessmen, they’d have too much sense to be writers. _Irvin S. Cobb_
 
 > The road to hell is paved with adverbs._Stephen King_
+
+---
+
+# Print URL After Links
+
+```
+@media print {
+
+  a::after{
+
+    content: " (" attr(href) ") ";
+
+  }
+
+}
+
+```
+
+[Click here to view Print URL After Links](https://css-tricks.com/snippets/css/print-url-after-links/)

@@ -23,3 +23,8 @@ click here [AboutMe](AboutMe.md)
 |Germany|With an interesting and rich history narrated by the old-fashion and colorful architecture, castles, palaces, cathedrals and monuments themselves, its landscapes, mountains and forests, delicious food and beer, Germany remains one of the top destinations in the world for travelers.|spent 20days|
 |Australia|There’s no doubt Australia is one of the most remote, fascinating, and highly developed countries in the world.Endowed with a myriad of natural wonders, plenty of wildlife, dazzling beaches, cosmopolitan metropolises, and large expanses of the outback, it’s easy to see why this captivating country is such a complete travel destination. It not only matches every taste, budget, age, or interest out there, but it also delivers some unique experiences almost impossible to find somewhere else.|spent 7days|
 
+
+-----
+# 2 Funny Quotes
+>If writers were good businessmen, they’d have too much sense to be writers. _Irvin S. Cobb_
+>The road to hell is paved with adverbs._Stephen King_

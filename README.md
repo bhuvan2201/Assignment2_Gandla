@@ -34,19 +34,16 @@ click here [AboutMe](AboutMe.md)
 
 # CSS
 
-> Print URL After Links
+https://stackoverflow.com/questions/10578073/changing-the-text-selection-color-using-css
 
 ```
-@media print {
-
-  a::after{
-
-    content: " (" attr(href) ") ";
-
-  }
-
+::selection {
+  background-color: #FFA;
+  color: #000;
 }
 
+
+
 ```
 
-[Click here to view Print URL After Links](https://css-tricks.com/snippets/css/print-url-after-links/)
+[Change Text Selection Color](https://css-tricks.com/snippets/css/change-text-selection-color/)

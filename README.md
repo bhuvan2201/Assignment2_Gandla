@@ -17,6 +17,9 @@ click here [AboutMe](AboutMe.md)
 
 ------
 # countries i recommend to visit
+
+> Below are the countires i should recommend to visit 
+
 |Name of the country|country to visit|Days to be spent|
 |-------------------|----------------|----------------|
 |India|India is a vast country that is teeming with impressive landscapes that range from dry desserts to imposing mountain ranges and stunning architecture with so much detail it will make your head spin knowing it was mostly, if not all produced by hand. India is a melting pot of cultures and traditions, various types of food and will provide you with enough culture shock to have stories to tell for years to come. India is a place that will teach you things about yourself, about others and you’ll learn what travelling is really all about.|spent 10 days|
@@ -34,7 +37,7 @@ click here [AboutMe](AboutMe.md)
 
 # CSS
 
-https://stackoverflow.com/questions/10578073/changing-the-text-selection-color-using-css
+> https://stackoverflow.com/questions/10578073/changing-the-text-selection-color-using-css
 
 ```
 ::selection {
